@@ -1,0 +1,29 @@
+{
+  "name": "expenses-tracker",
+  "version": "1.0.0",
+  "description": "expenses tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalakhouri/expenses-tracker.git"
+  },
+  "keywords": [
+    "expenses",
+    "tracker"
+  ],
+  "author": "Akhouri Vishal Sinha <vakhouri@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalakhouri/expenses-tracker/issues"
+  },
+  "homepage": "https://github.com/vishalakhouri/expenses-tracker#readme",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-route": "^1.5.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
